@@ -1,1 +1,1 @@
-https://github.com/not-nice/spring-boot-webapp-uebung-github.git
+https://github.com/not-nice/CloudComputingProjekt.git
